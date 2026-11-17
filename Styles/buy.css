@@ -1,0 +1,64 @@
+
+.buy_main {
+    background: linear-gradient(45deg, black, graytext, blueviolet);
+}
+
+.buy_main .buy_type {
+    width: 100%;
+    float: none;
+    min-height: 500px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.buy_main h1 {
+    color: gold;
+}
+
+.buy_main h2 {
+    color: lightgreen;
+}
+
+.buy_main h3 {
+    color: orange;
+}
+
+.buy_main p {
+    color: white;
+}
+
+.buy_main form input[type="number"] {
+    padding: 8px;
+}
+
+.buy_main button {
+    background: blue;
+    color: white;
+    border: 2px solid navy;
+    padding: 8px 15px;
+    cursor: pointer;
+}
+
+.buy_main button:hover {
+    background: dodgerblue;
+}
+
+.buy_main hr {
+    border: 1px solid silver;
+}
+
+.buy_main .buy_type a {
+    display: block;
+    width: fit-content;
+    background: goldenrod;
+    color: black;
+    border: 2px solid darkgoldenrod;
+    padding: 8px 15px;
+    text-decoration: none;
+    margin-top: 15px;
+}
+
+.buy_main .buy_type a:hover {
+    background: gold;
+    color: black;
+}

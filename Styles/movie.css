@@ -1,0 +1,58 @@
+
+.movie_main {
+    background: linear-gradient(45deg, black, rebeccapurple);
+}
+
+.movie_main section {
+    margin-left: 20px;
+}
+
+.movie_main section h2 {
+    font-size: 28px;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+
+.movie_main section h3 {
+    color: gold;
+    text-shadow: 1px 1px 3px black;
+}
+
+.movie_main_nav {
+    margin-bottom: 15px;
+}
+
+.movie_main_nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: block;
+}
+
+.movie_main_nav li {
+    float: left;
+    margin-right: 10px;
+}
+
+.movie_main table {
+    border-collapse: collapse;
+    margin-top: 5px;
+}
+
+.movie_main th {
+    color: white;
+}
+
+.movie_main td {
+    color: gold;
+    text-shadow: 1px 1px 3px black;
+    padding: 5px 35px 5px 0;
+    vertical-align: middle;
+}
+
+.movie_main td img {
+    width: 100px;
+    height: auto;
+    display: block;
+}

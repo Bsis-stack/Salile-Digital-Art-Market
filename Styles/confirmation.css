@@ -1,0 +1,39 @@
+
+.confirmation_main {
+    background: linear-gradient(45deg, blue, black, blanchedalmond);
+}
+
+.confirmation_main .confirmation_type {
+    width: 100%;
+    float: none;
+    min-height: 500px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.confirmation_main h1 {
+    color: gold;
+}
+
+.confirmation_main h2 {
+    color: red;
+}
+
+.confirmation_main p {
+    color: white;
+}
+
+.confirmation_main .confirmation_type a {
+    display: block;
+    width: fit-content;
+    background: royalblue;
+    color: white;
+    border: 2px solid navy;
+    padding: 12px 25px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.confirmation_main .confirmation_type a:hover {
+    background: rblue;
+}

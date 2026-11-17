@@ -1,0 +1,70 @@
+
+.comedy_main {
+    background: linear-gradient(45deg, black, blue);
+     
+}
+
+
+.comedy_main section {
+    margin-left: 20px;
+}
+
+.comedy_main section h2 {
+    font-size: 28px;
+    color: white;
+}
+
+.comedy_main section h3 {
+    color: red;
+}
+
+.comedy_main section h4 {
+    color: white;
+    text-shadow: 1px 1px 3px black;
+}
+
+
+.comedy_main_nav {
+    margin-bottom: 15px;
+}
+
+.comedy_main_nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+    display: block;
+  
+}
+
+.comedy_main_nav li {
+    float: left;
+    margin-right: 10px;
+}
+
+
+
+
+
+.comedy_main table {
+    border-collapse: collapse;
+    margin-top: 5px;
+}
+
+.comedy_main th {
+    color: white;
+}
+
+.comedy_main td {
+    color: white;
+    text-shadow: 1px 1px 3px black;
+    padding: 5px 35px 5px 0;
+    vertical-align: middle;
+}
+
+.comedy_main td img {
+    width: 100px;
+    height: auto;
+    display: block;
+}

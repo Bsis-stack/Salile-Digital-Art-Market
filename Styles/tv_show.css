@@ -1,0 +1,65 @@
+
+.tv_show_main {
+    background: linear-gradient(45deg, black, red);
+     
+}
+
+
+.tv_show_main section {
+    margin-left: 20px;
+}
+
+.tv_show_main section h2 {
+    font-size: 28px;
+    color: white;
+}
+
+.tv_show_main section h3 {
+    color: red;
+}
+
+
+.tv_show_main_nav {
+    margin-bottom: 15px;
+}
+
+.tv_show_main_nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+    display: block;
+  
+}
+
+.tv_show_main_nav li {
+    float: left;
+    margin-right: 10px;
+}
+
+
+
+
+
+.tv_show_main table {
+    border-collapse: collapse;
+    margin-top: 5px;
+}
+
+.tv_show_main th {
+    color: white;
+}
+
+.tv_show_main td {
+    color: #FFD700;
+    text-shadow: 1px 1px 3px black;
+    padding: 5px 35px 5px 0;
+    vertical-align: middle;
+}
+
+.tv_show_main td img {
+    width: 100px;
+    height: auto;
+    display: block;
+}

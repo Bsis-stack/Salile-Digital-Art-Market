@@ -1,0 +1,28 @@
+
+.log {
+    background-color: cornsilk;
+    min-height: 300px;
+}
+
+.form {
+    padding: 30px;
+}
+
+.form label {
+    color: blue;
+    font-weight: bold;
+}
+
+.form button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.err {
+    color: red;
+    padding: 15px 30px;
+}

@@ -1,0 +1,38 @@
+
+main section ul {
+    padding-left: 45px;
+}
+
+main section li {
+    padding-bottom: 0.5em;
+}
+
+main section div p {
+    padding-bottom: 0.5em;
+}
+
+nav ul ul {
+    z-index: 10;
+}
+
+main section h3 {
+    z-index: 1;
+}
+
+#faqs h3 {
+    padding: 15px;
+    margin: 5px 0;
+    background-color: lightcoral;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#faqs h3:hover {
+    background-color: lightsalmon;
+}
+
+#faqs div {
+    padding: 15px;
+    background-color: #f5f5f5;
+    margin-bottom: 10px;
+}
